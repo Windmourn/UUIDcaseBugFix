@@ -1,0 +1,9 @@
+[submodule "BungeeCord"]
+	path = BungeeCord
+	url = https://github.com/Windmourn/BungeeCord.git
+[submodule "SimpleORM"]
+	path = SimpleORM
+	url = https://github.com/Windmourn/SimpleORM.git
+[submodule "Bukkit"]
+	path = Bukkit
+	url = https://github.com/Windmourn/Bukkit.git

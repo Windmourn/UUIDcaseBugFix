@@ -1,0 +1,4 @@
+name: UUIDLowercase
+main: io.github.windmourn.lcuuid.bungee.Main
+version: 0.1
+author: Windmourn
